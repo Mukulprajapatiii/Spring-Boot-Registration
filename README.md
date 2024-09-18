@@ -44,17 +44,4 @@ Use the following command to run the application:
 mvn spring-boot:run
 
 
-**Project Structure**
-Spring-Boot-Registration/
-│
-├── src/main/java/com/example/registration
-│   ├── controller       # Controllers handling web requests
-│   ├── model            # Model classes (e.g., User)
-│   ├── repository       # Repository for database operations
-│   └── service          # Services for business logic
-│
-├── src/main/resources
-│   ├── templates        # Thymeleaf templates for the web pages
-│   └── application.properties   # Application configuration
-│
-└── pom.xml              # Maven dependencies
+
